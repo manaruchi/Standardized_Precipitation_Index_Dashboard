@@ -8,7 +8,7 @@ In the world of Data Science, the Dashboards has been a popular option for visua
 
 ## Objective of this project
 
-The current project aims to develop a dashboard to visualize annual SPI value rasters for various timescales generated using [SPIUtility](manaruchi.github.io/spiutility.html) plugin for QGIS along with some extra data visualization here-there. If you want to know more about how the SPI values are generated using SPIUtility, visit the [SPIUtility documentation.](manaruchi.github.io/spiutility.html) 
+The current project aims to develop a dashboard to visualize annual SPI value rasters for various timescales generated using [SPIUtility](https://manaruchi.github.io/spiutility.html) plugin for QGIS along with some extra data visualization here-there. If you want to know more about how the SPI values are generated using SPIUtility, visit the [SPIUtility documentation.](https://manaruchi.github.io/spiutility.html) 
 
 ## The final product
 
