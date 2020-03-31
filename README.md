@@ -14,7 +14,7 @@ The current project aims to develop a dashboard to visualize annual SPI value ra
 
 After the end of this article, we should have a Dashboard which would look like the following.
 
-![final_layout](images\final_layout.png)
+![final_layout](/images/final_layout.png)
 
 The main elements in the layout are, the top navigation bar (aka the title bar), a control bar (with options to choose the timescale, month and year for which the SPI values to be loaded), a choropleth map and a Pie chart inside a Tab element.
 
