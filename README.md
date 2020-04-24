@@ -12,7 +12,7 @@ The current project aims to develop a dashboard to visualize annual SPI value ra
 
 ## The final product
 
-After the end of this article, we should have a Dashboard which would look like the following.
+After the end of this article, we should have a Dashboard which would look like the following. The dashboard is now up and live at [SPIDash](http://spidash.herokuapp.com/)
 
 ![final_layout](/images/final_layout.png)
 
